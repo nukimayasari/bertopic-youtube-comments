@@ -1,0 +1,8 @@
+bertopic
+sentence-transformers
+emoji
+langdetect
+nltk
+pandas
+numpy
+scikit-learn==1.6.1
